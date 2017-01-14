@@ -5,6 +5,7 @@ title: "Au Contraire"
 worktype: "Development"
 date: 2016-08-03 01:01:01
 categories: book
+tags: derek-sivers-on-developing-confidence-finding-happiness-and-saying-“no”-to-millions
 image-url: 51ev09eCJML._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAu-Contraire-Figuring-Out-French%2Fdp%2F1931930929%2F
 description: "Derek Sivers on Developing Confidence, Finding Happiness, and Saying “No” to Millions"

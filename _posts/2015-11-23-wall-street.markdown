@@ -5,6 +5,7 @@ title: "Wall Street"
 worktype: "Development"
 date: 2015-11-23 01:01:01
 categories: movie
+tags: rolf-potts-on-travel-tactics-creating-time-wealth-and-lateral-thinking
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWall-Street-Charlie-Sheen%2Fdp%2FB00003CXDB%2F
 description: "Rolf Potts on Travel Tactics, Creating Time Wealth, and Lateral Thinking"

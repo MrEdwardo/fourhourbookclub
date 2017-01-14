@@ -5,6 +5,7 @@ title: "Shackleton"
 worktype: "Development"
 date: 2016-03-17 01:01:01
 categories: movie
+tags: the-rags-to-riches-philosopher:-bryan-johnson’s-path-to-$800-million
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FShackleton-Greatest-Survival-Collectors-Edition%2Fdp%2FB000063TON%2F
 description: "The Rags to Riches Philosopher: Bryan Johnson’s Path to $800 Million"

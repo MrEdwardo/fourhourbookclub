@@ -5,6 +5,7 @@ title: "Innovation and Entrepreneurship"
 worktype: "Development"
 date: 2016-05-21 01:01:01
 categories: book
+tags: matt-mullenweg-on-polyphasic-sleep-tequila-and-building-billion-dollar-companies
 image-url: 411IJ6TIhLL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FInnovation-Entrepreneurship-Peter-F-Drucker%2Fdp%2F0060851139%2F
 description: "Matt Mullenweg on Polyphasic Sleep, Tequila, and Building Billion-Dollar Companies"

@@ -5,6 +5,7 @@ title: "The Naked Warrior"
 worktype: "Development"
 date: 2016-01-03 01:01:01
 categories: book
+tags: pavel-tsatsouline-on-the-science-of-strength-and-the-art-of-physical-performance--http://fourhourworkweek.com/2015/01/15/pavel-tsatsouline/
 image-url: 51i-nG%2BcdwL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FNaked-Warrior-Pavel-Tsatsouline%2Fdp%2F0938045555
 description: "Pavel Tsatsouline on the Science of Strength and the Art of Physical Performance - http://fourhourworkweek.com/2015/01/15/pavel-tsatsouline/"

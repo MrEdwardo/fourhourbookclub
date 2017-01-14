@@ -5,6 +5,7 @@ title: "The Untethered Soul: The Journey Beyond Yourself"
 worktype: "Development"
 date: 2015-12-13 01:01:01
 categories: book
+tags: tara-brach-on-meditation-and-overcoming-fomo-(fear-of-missing-out)--http://fourhourworkweek.com/2015/07/31/tara-brach/
 image-url: 414Cmh4Pr-L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FUntethered-Soul-Journey-Beyond-Yourself%2Fdp%2F1572245379
 description: "Tara Brach on Meditation and Overcoming FOMO (Fear Of Missing Out) - http://fourhourworkweek.com/2015/07/31/tara-brach/"

@@ -5,6 +5,7 @@ title: "Anchorman"
 worktype: "Development"
 date: 2016-08-08 01:01:01
 categories: movie
+tags: the-random-show-episode-25-—-gut-bacteria-meditation-startups-and-more
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAnchorman-Legend-Burgundy-Will-Ferrell%2Fdp%2FB008LXZFH6%2F
 description: "The Random Show, Episode 25 — Gut Bacteria, Meditation, Startups, and More"

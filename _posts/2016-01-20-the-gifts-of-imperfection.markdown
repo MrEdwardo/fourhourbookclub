@@ -5,6 +5,7 @@ title: "The Gifts of Imperfection"
 worktype: "Development"
 date: 2016-01-20 01:01:01
 categories: book
+tags: brené-brown-on-vulnerability-and-home-run-ted-talks
 image-url: 51eQedfZAjL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGifts-Imperfection-Think-Supposed-Embrace%2Fdp%2F159285849X%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

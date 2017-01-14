@@ -5,6 +5,7 @@ title: "Grain Brain"
 worktype: "Development"
 date: 2016-06-11 01:01:01
 categories: book
+tags: the-maverick-of-brain-optimization
 image-url: 51KxsObdCrL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGrain-Brain-Surprising-Brains-Killers-ebook%2Fdp%2FB00BAXFCPO%2F
 description: "The Maverick of Brain Optimization"

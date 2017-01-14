@@ -5,6 +5,7 @@ title: "Sony MDR 7506 HeadPhones"
 worktype: "Development"
 date: 2016-03-06 01:01:01
 categories: object
+tags: how-to-create-a-blockbuster-podcast
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSony-MDR7506-Professional-Diaphragm-Headphone%2Fdp%2FB000AJIF4E%2F
 description: "How to Create a Blockbuster Podcast"

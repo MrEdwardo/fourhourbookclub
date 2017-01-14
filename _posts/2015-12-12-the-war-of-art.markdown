@@ -5,6 +5,7 @@ title: "The War of Art"
 worktype: "Development"
 date: 2015-12-12 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-10:-brian-koppelman-co-writer/producer-of-rounders-the-illusionist-ocean’s-thirteen
 image-url: 41ET8OFVFCL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWar-Art-Steven-Pressfield-ebook%2Fdp%2FB007A4SDCG%2F
 description: "The Tim Ferriss Show, Episode 10: Brian Koppelman, Co-writer/Producer of Rounders, The Illusionist, Ocean’s Thirteen"

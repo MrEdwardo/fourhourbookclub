@@ -5,6 +5,7 @@ title: "Tao Te Ching"
 worktype: "Development"
 date: 2016-02-19 01:01:01
 categories: book
+tags: rick-rubin-on-cultivating-world-class-artists-(jay-z-johnny-cash-etc.)-losing-100+-pounds-and-breaking-down-the-complex
 image-url: 518%2BricfPoL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FTao-Te-Ching-Laozi%2Fdp%2F0060812451%2F
 description: "Rick Rubin on Cultivating World-Class Artists (Jay Z, Johnny Cash, etc.), Losing 100+ Pounds, and Breaking Down The Complex"

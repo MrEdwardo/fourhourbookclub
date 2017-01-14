@@ -5,6 +5,7 @@ title: "Only Don’t Know"
 worktype: "Development"
 date: 2016-04-09 01:01:01
 categories: book
+tags: amanda-palmer-on-how-to-fight-meditate-and-make-good-art
 image-url: 51GOUwjVKRL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FOnly-Dont-Know-Selected-Teaching%2Fdp%2F1570624321%2F
 description: "Amanda Palmer on How to Fight, Meditate, and Make Good Art"

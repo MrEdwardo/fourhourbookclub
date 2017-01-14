@@ -5,6 +5,7 @@ title: "Stumbling on Happiness"
 worktype: "Development"
 date: 2016-02-23 01:01:01
 categories: book
+tags: maria-popova-on-being-interesting-creating-more-time-in-a-day-and-how-to-start-a-successful-blog
 image-url: 416ie48vq-L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FStumbling-Happiness-Daniel-Gilbert%2Fdp%2F1400077427%2F
 description: "Maria Popova on Being Interesting, Creating More Time in a Day, And How to Start A Successful Blog"

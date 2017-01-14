@@ -5,6 +5,7 @@ title: "The Artist's Way Morning Pages Journal"
 worktype: "Development"
 date: 2016-02-10 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-10:-brian-koppelman-co-writer/producer-of-rounders-the-illusionist-ocean’s-thirteen--http://fourhourworkweek.com/2014/06/04/brian-koppelman-screenwriter/
 image-url: 51ldMO5CbYL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FArtists-Way-Morning-Pages-Journal%2Fdp%2F0874778867
 description: "The Tim Ferriss Show, Episode 10: Brian Koppelman, Co-writer/Producer of Rounders, The Illusionist, Ocean’s Thirteen - http://fourhourworkweek.com/2014/06/04/brian-koppelman-screenwriter/"

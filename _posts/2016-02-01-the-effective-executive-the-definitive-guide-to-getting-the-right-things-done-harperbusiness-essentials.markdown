@@ -5,6 +5,7 @@ title: "The Effective Executive: The Definitive Guide to Getting the Right Thing
 worktype: "Development"
 date: 2016-02-01 01:01:01
 categories: book
+tags: tim-ferriss-and-kevin-rose-discuss-their-top-5-must-read-books--http://fourhourworkweek.com/2009/06/01/tim-ferriss-and-kevin-rose-discuss-their-top-5-must-read-books/
 image-url: 51Ebr46zn0L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FEffective-Executive-Definitive-Harperbusiness-Essentials%2Fdp%2F0060833459
 description: "Tim Ferriss and Kevin Rose Discuss Their Top 5 Must-Read Books - http://fourhourworkweek.com/2009/06/01/tim-ferriss-and-kevin-rose-discuss-their-top-5-must-read-books/"

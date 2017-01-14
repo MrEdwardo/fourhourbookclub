@@ -5,6 +5,7 @@ title: "The Kite Runner"
 worktype: "Development"
 date: 2016-01-11 01:01:01
 categories: movie
+tags: the-tim-ferriss-show-episode-18:-james-altucher-on-how-to-say-“no”-fail-better-and-build-businesses
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FKite-Runner-10th-Anniversary%2Fdp%2F159463193X%2F%25E2%2580%25A0
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

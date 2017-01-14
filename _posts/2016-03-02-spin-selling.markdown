@@ -5,6 +5,7 @@ title: "SPIN Selling"
 worktype: "Development"
 date: 2016-03-02 01:01:01
 categories: book
+tags: how-one-computer-hacker-conquered-online-dating-opens-locked-cars-and-more
 image-url: 51ay1tLmaHL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://geni.us/RkV3DvD
 description: "How One Computer Hacker Conquered Online Dating, Opens Locked Cars, and More"

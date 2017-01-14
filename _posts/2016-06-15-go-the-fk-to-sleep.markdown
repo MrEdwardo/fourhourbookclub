@@ -5,6 +5,7 @@ title: "Go the F**k to Sleep"
 worktype: "Development"
 date: 2016-06-15 01:01:01
 categories: book
+tags: how-one-computer-hacker-conquered-online-dating-opens-locked-cars-and-more
 image-url: 51LYILw0o-L._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGo-F-Sleep-Adam-Mansbach%2Fdp%2F1617750255%2F
 description: "How One Computer Hacker Conquered Online Dating, Opens Locked Cars, and More"

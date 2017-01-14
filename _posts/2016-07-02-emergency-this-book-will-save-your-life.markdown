@@ -5,6 +5,7 @@ title: "Emergency: This Book Will Save Your Life"
 worktype: "Development"
 date: 2016-07-02 01:01:01
 categories: book
+tags: the-tim-ferriss-podcast-ep-15:-neil-strauss-author-of-the-game
 image-url: 51odxNGX56L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FEmergency-This-Book-Will-Save%2Fdp%2F0060898771%2F
 description: "The Tim Ferriss Podcast, Ep 15: Neil Strauss, Author of The Game"

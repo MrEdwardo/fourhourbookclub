@@ -5,6 +5,7 @@ title: "Concept 2 Rower"
 worktype: "Development"
 date: 2016-07-12 01:01:01
 categories: fitness
+tags: what-i’d-add-to-the-4-hour-workweek-for-2015-(and-much-more)
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FConcept2-Model-Indoor-Rowing-Machine%2Fdp%2FB0092KNWA4%2F
 description: "What I’d Add To The 4-Hour Workweek for 2015 (And Much More)"

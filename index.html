@@ -3,25 +3,31 @@ layout: default
 title: Books recommended on the Tim Ferriss Show
 ---
 
+{% for tagList in site.tags %}
+  {% assign episode = tagList[0] %}
+  {% assign description = site.tags[episode][0].description %}
+
+<li style="list-style: none;"><div><h3>Books featured in episode: {{description}}</h3><br /><br /></div></li>
+
 <ul class="projects clearfix">
-{% for post in site.categories.book %}
-  <li>
-    <div class="project">
-      
-    {% if post.image-url == "book-cover-blank.jpg"%}
-      <a class="cover-noimage" href="{{ post.url }}">
-    {% else %}
-      <a class="cover" href="{{ post.url }}">
-    {% endif %}
-        <div class="project-details">
-          <span>
-            {{ post.title }}
-          </span>
-        </div>
-      </a>
-        <img class="thumb" src="img/thumbs/{{ post.image-url }}" />
-      <div class="aspect-two-one"></div>
-    </div>
-  </li>
-{% endfor %}
+{% for post in site.tags[episode] %}   
+    <li>
+      <div class="project">
+      {% if post.image-url == "book-cover-blank.jpg"%}
+        <a class="cover-noimage" href="{{ post.url }}">
+      {% else %}
+        <a class="cover" href="{{ post.url }}">
+      {% endif %}
+          <div class="project-details">
+            <span>
+              {{ post.title }}
+            </span>
+          </div>
+        </a>
+          <img class="thumb" src="img/thumbs/{{ post.image-url }}" />
+        <div class="aspect-two-one"></div>
+      </div>
+    </li>
+  {% endfor %}
 </ul>
+{% endfor %}

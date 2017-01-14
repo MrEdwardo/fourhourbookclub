@@ -5,6 +5,7 @@ title: "Kettlebell: Simple and Sinister"
 worktype: "Development"
 date: 2016-05-17 01:01:01
 categories: book
+tags: pavel-tsatsouline-on-the-science-of-strength-and-the-art-of-physical-performance
 image-url: 51Loz%2BpS70L._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FKettlebell-Simple-Sinister-Pavel-Tsatsouline-ebook%2Fdp%2FB00GF2HP9G%2F
 description: "Pavel Tsatsouline on the Science of Strength and the Art of Physical Performance"

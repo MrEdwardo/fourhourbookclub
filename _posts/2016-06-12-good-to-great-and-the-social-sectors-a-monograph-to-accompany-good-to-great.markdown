@@ -5,6 +5,7 @@ title: "Good to Great and the Social Sectors: A Monograph to Accompany Good to G
 worktype: "Development"
 date: 2016-06-12 01:01:01
 categories: book
+tags: the-tim-ferriss-show:-tracy-dinunzio-on-rapid-growth-and-rapid-learning
 image-url: 41z%2BF%2Bi4C2L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGood-Great-Social-Sectors-Monograph%2Fdp%2F0977326403%2F
 description: "The Tim Ferriss Show: Tracy DiNunzio on Rapid Growth and Rapid Learning"

@@ -5,6 +5,7 @@ title: "Fiasco"
 worktype: "Development"
 date: 2016-06-24 01:01:01
 categories: book
+tags: bryan-callen-on-eating-corgis-(yes-the-dogs)-and-improving-creativity
 image-url: 51rr3-rmyCL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FFiasco-American-Military-Adventure-Iraq-ebook%2Fdp%2FB004IATD6U%2F
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

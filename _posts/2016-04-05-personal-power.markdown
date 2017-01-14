@@ -5,6 +5,7 @@ title: "Personal Power"
 worktype: "Development"
 date: 2016-04-05 01:01:01
 categories: book
+tags: dom-d’agostino-on-fasting-ketosis-and-the-end-of-cancer
 image-url: 519qZyZJVIL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FPersonal-Classic-Edition-Anthony-Robbins%2Fdp%2FB006EQLYG8%2F
 description: "Dom D’Agostino on Fasting, Ketosis, and the End of Cancer"

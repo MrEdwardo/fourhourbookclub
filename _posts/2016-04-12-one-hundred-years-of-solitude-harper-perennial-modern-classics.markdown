@@ -5,6 +5,7 @@ title: "One Hundred Years of Solitude (Harper Perennial Modern Classics)"
 worktype: "Development"
 date: 2016-04-12 01:01:01
 categories: book
+tags: bryan-callen-on-eating-corgis-(yes-the-dogs)-and-improving-creativity--http://fourhourworkweek.com/2014/12/01/bryan-callen/
 image-url: 61O-ltKJb9L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHundred-Solitude-Harper-Perennial-Classics%2Fdp%2F0060883286
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity - http://fourhourworkweek.com/2014/12/01/bryan-callen/"

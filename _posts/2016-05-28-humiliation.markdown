@@ -5,6 +5,7 @@ title: "Humiliation"
 worktype: "Development"
 date: 2016-05-28 01:01:01
 categories: book
+tags: sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read
 image-url: 41EYCSPc3eL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHumiliation-Essays-Social-Discomfort-Violence%2Fdp%2F0801481171%2F
 description: "Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read"

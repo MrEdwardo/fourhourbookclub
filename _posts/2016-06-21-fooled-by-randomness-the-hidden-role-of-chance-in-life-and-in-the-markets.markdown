@@ -5,6 +5,7 @@ title: "Fooled by Randomness: The Hidden Role of Chance in Life and in the Marke
 worktype: "Development"
 date: 2016-06-21 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-18:-james-altucher-on-how-to-say-“no”-fail-better-and-build-businesses
 image-url: 41AEX42XTQL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FFooled-Randomness-Hidden-Markets-Incerto%2Fdp%2F0812975219%2F
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

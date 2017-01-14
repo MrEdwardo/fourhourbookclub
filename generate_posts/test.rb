@@ -12,6 +12,8 @@ CSV.foreach('jekyll.csv') do |row|
 	itemUrl = row[9]
 	description = row[10]
 	episodeUrl = row[11]
+	tags = ("" + row[10]).gsub(' ', '-').gsub('The Tim Ferriss Show, Episode', 'E').gsub(',','').gsub(' ', '-').gsub(' ', '-').gsub('--', '-').gsub('---', '-').gsub('----', '-').gsub(' ', '-').downcase
+
 
 		array = Array.new
 
@@ -27,6 +29,7 @@ CSV.foreach('jekyll.csv') do |row|
 		end
 
 		array << "categories: " + categories
+		array << "tags: " + tags
 
 		if imageUrl.nil? || imageUrl == 0
 			imageUrl = "book-cover-blank.jpg"

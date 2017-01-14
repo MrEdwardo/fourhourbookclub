@@ -5,6 +5,7 @@ title: "Mortal Questions"
 worktype: "Development"
 date: 2016-04-22 01:01:01
 categories: book
+tags: sam-harris-on-daily-routines-the-trolley-scenario-and-5-books-everyone-should-read
 image-url: 21Xbr7u1HCL._BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FMortal-Questions-Canto-Thomas-Nagel%2Fdp%2F0521406765%2F
 description: "Sam Harris on Daily Routines, The Trolley Scenario, and 5 Books Everyone Should Read"

@@ -5,6 +5,7 @@ title: "The Alchemist"
 worktype: "Development"
 date: 2016-02-14 01:01:01
 categories: book
+tags: brené-brown-on-vulnerability-and-home-run-ted-talks--http://fourhourworkweek.com/2015/08/28/brene-brown-on-vulnerability-and-home-run-ted-talks/
 image-url: 41ybG235TcL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAlchemist-Paulo-Coelho%2Fdp%2F0061122416
 description: "Brené Brown on Vulnerability and Home Run TED Talks - http://fourhourworkweek.com/2015/08/28/brene-brown-on-vulnerability-and-home-run-ted-talks/"

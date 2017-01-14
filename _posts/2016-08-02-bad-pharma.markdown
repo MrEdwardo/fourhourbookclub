@@ -5,6 +5,7 @@ title: "Bad Pharma"
 worktype: "Development"
 date: 2016-08-02 01:01:01
 categories: book
+tags: bryan-callen-on-eating-corgis-(yes-the-dogs)-and-improving-creativity
 image-url: 51D-51fm%2BbL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FBad-Pharma-Companies-Mislead-Patients%2Fdp%2F0865478007%2F
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

@@ -5,6 +5,7 @@ title: "Dynamic Hedging: Managing Vanilla and Exotic Options"
 worktype: "Development"
 date: 2016-07-03 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-18:-james-altucher-on-how-to-say-“no”-fail-better-and-build-businesses
 image-url: 51Ny9EO5s7L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FDynamic-Hedging-Managing-Vanilla-Options%2Fdp%2F0471152803%2F
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

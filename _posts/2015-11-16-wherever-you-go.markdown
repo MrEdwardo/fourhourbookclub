@@ -5,6 +5,7 @@ title: "Wherever You Go"
 worktype: "Development"
 date: 2015-11-16 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-14:-sam-harris-phd-on-spirituality-neuroscience-meditation-and-more
 image-url: 51%2BH0HzhOTL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWherever-You-Go-There-Are%2Fdp%2F1401307787%2F
 description: "The Tim Ferriss Show, Episode 14: Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More"

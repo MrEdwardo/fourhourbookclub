@@ -5,6 +5,7 @@ title: "Tihkal: The Continuation"
 worktype: "Development"
 date: 2015-12-05 01:01:01
 categories: book
+tags: the-psychedelic-explorer’s-guide-–-risks-micro-dosing-ibogaine-and-more--http://fourhourworkweek.com/2015/03/21/james-fadiman/
 image-url: 41PVSDS6qjL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FTihkal-Continuation-Alexander-Shulgin%2Fdp%2F0963009699
 description: "The Psychedelic Explorer’s Guide – Risks, Micro-Dosing, Ibogaine, and More - http://fourhourworkweek.com/2015/03/21/james-fadiman/"

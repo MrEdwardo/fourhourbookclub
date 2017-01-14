@@ -5,6 +5,7 @@ title: "XLR Cable"
 worktype: "Development"
 date: 2015-11-09 01:01:01
 categories: object
+tags: how-to-create-a-blockbuster-podcast
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FYour-Cable-Store-Microphone-feet%2Fdp%2FB001JI2KHS%2F
 description: "How to Create a Blockbuster Podcast"

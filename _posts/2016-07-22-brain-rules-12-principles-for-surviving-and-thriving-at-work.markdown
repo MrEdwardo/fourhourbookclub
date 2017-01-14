@@ -5,6 +5,7 @@ title: "Brain Rules: 12 Principles for Surviving and Thriving at Work"
 worktype: "Development"
 date: 2016-07-22 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-18:-james-altucher-on-how-to-say-“no”-fail-better-and-build-businesses
 image-url: 41Rer4SVTWL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FBrain-Rules-Updated-Expanded-Principles%2Fdp%2F098326337X%2F%25E2%2580%25A0
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

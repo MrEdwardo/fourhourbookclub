@@ -5,6 +5,7 @@ title: "Canned oysters"
 worktype: "Development"
 date: 2016-07-19 01:01:01
 categories: fitness
+tags: dom-d’agostino-on-fasting-ketosis-and-the-end-of-cancer
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FCrown-Prince-Natural-Oysters-3-Ounce%2Fdp%2FB00GJ0WW24%2F
 description: "Dom D’Agostino on Fasting, Ketosis, and the End of Cancer"

@@ -5,6 +5,7 @@ title: "Tricks of The Mind"
 worktype: "Development"
 date: 2015-12-01 01:01:01
 categories: book
+tags: derek-sivers-reloaded-–-on-success-habits-and-billionaires-with-perfect-abs
 image-url: 51FfCZSH%2BoL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FTricks-Mind-Paperback-DERREN-BROWN%2Fdp%2F1905026358%2F
 description: "Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs"

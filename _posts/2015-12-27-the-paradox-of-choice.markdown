@@ -5,6 +5,7 @@ title: "The Paradox of Choice"
 worktype: "Development"
 date: 2015-12-27 01:01:01
 categories: book
+tags: brené-brown-on-vulnerability-and-home-run-ted-talks
 image-url: 412jfk0fhkL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FParadox-Choice-Why-More-Less%2Fdp%2F0060005696%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

@@ -5,6 +5,7 @@ title: "Exploring the World of Lucid Dreaming"
 worktype: "Development"
 date: 2016-06-26 01:01:01
 categories: book
+tags: the-psychedelic-explorer’s-guide-–-risks-micro-dosing-ibogaine-and-more
 image-url: 510aKu0sPTL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FExploring-World-Dreaming-Stephen-LaBerge%2Fdp%2F034537410X
 description: "The Psychedelic Explorer’s Guide – Risks, Micro-Dosing, Ibogaine, and More"

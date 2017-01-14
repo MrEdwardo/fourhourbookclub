@@ -5,6 +5,7 @@ title: "The Hero's Journey: Joseph Campbell on His Life and Work (The Collected 
 worktype: "Development"
 date: 2016-01-16 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-22:-ed-catmull-president-of-pixar-on-steve-jobs-stories-and-lessons-learned--http://fourhourworkweek.com/2014/08/12/ed-catmull/
 image-url: 51vrpelDKsL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHeros-Journey-Joseph-Campbell-Collected%2Fdp%2F1608681890
 description: "The Tim Ferriss Show, Episode 22: Ed Catmull, President of Pixar, on Steve Jobs, Stories, and Lessons Learned - http://fourhourworkweek.com/2014/08/12/ed-catmull/"

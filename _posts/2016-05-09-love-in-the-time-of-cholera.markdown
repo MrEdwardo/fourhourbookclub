@@ -5,6 +5,7 @@ title: "Love in the Time of Cholera"
 worktype: "Development"
 date: 2016-05-09 01:01:01
 categories: book
+tags: bryan-callen-on-eating-corgis-(yes-the-dogs)-and-improving-creativity
 image-url: 51%2B9igh05sL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FLove-Time-Cholera-Marquez-2014-ebook%2Fdp%2FB00NKDOZNM%2F
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

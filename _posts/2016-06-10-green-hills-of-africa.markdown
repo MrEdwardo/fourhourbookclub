@@ -5,6 +5,7 @@ title: "Green Hills of Africa"
 worktype: "Development"
 date: 2016-06-10 01:01:01
 categories: book
+tags: the-tim-ferriss-podcast-is-live!-here-are-episodes-1-and-2
 image-url: 51wtK8U7DzL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGreen-Hills-Africa-Ernest-Hemingway%2Fdp%2FB003AWQRXE%2F
 description: "The Tim Ferriss Podcast is Live! Here Are Episodes 1 and 2"

@@ -5,6 +5,7 @@ title: "How To Talk To Anyone"
 worktype: "Development"
 date: 2016-05-30 01:01:01
 categories: book
+tags: derek-sivers-reloaded-–-on-success-habits-and-billionaires-with-perfect-abs
 image-url: 51l3jMA9XqL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHow-Talk-Anyone-Success-Relationships%2Fdp%2F007141858X%2F
 description: "Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs"

@@ -5,6 +5,7 @@ title: "ONE POLICE PLAZA"
 worktype: "Development"
 date: 2016-04-10 01:01:01
 categories: book
+tags: marc-goodman-fbi-futurist-on-high-tech-crime-and-how-to-protect-yourself
 image-url: 71CWDNEN2AL._SY291_BO1,204,203,200_QL40_.gif
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FONE-POLICE-PLAZA-William-Caunitz%2Fdp%2F0553275232%2F
 description: "Marc Goodman, FBI Futurist, on High-Tech Crime and How to Protect Yourself"

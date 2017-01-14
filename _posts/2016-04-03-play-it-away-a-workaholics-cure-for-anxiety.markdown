@@ -5,6 +5,7 @@ title: "Play It Away: A Workaholic's Cure for Anxiety"
 worktype: "Development"
 date: 2016-04-03 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-8:-chase-jarvis-master-photographer--http://fourhourworkweek.com/2014/05/26/the-tim-ferriss-show-episode-8-chase-jarvis-master-photographer/
 image-url: 41mt1tX33BL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FPlay-Away-Workaholics-Cure-Anxiety%2Fdp%2F0615918174
 description: "The Tim Ferriss Show, Episode 8: Chase Jarvis, Master Photographer - http://fourhourworkweek.com/2014/05/26/the-tim-ferriss-show-episode-8-chase-jarvis-master-photographer/"

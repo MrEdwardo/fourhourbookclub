@@ -5,6 +5,7 @@ title: "The 22 Immutable Laws of Marketing:  Violate Them at Your Own Risk!"
 worktype: "Development"
 date: 2016-02-16 01:01:01
 categories: book
+tags: drunk-dialing-fans–celebrating-the-100th-podcast-episode!--http://fourhourworkweek.com/2015/09/11/drunk-dialing/
 image-url: 51b7BzdnqLL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2F22-Immutable-Laws-Marketing-Violate%2Fdp%2F0887306667
 description: "Drunk Dialing Fans–Celebrating The 100th Podcast Episode! - http://fourhourworkweek.com/2015/09/11/drunk-dialing/"

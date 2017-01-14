@@ -5,6 +5,7 @@ title: "The Fourth Turning"
 worktype: "Development"
 date: 2016-01-23 01:01:01
 categories: book
+tags: tony-robbins-and-peter-diamandis-(xprize)-on-the-magic-of-thinking-big
 image-url: 51vbp8Q%2BPIL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FFourth-Turning-American-Prophecy-Rendezvous%2Fdp%2F0767900464%2F
 description: "Tony Robbins and Peter Diamandis (XPRIZE) on the Magic of Thinking BIG"

@@ -5,6 +5,7 @@ title: "Cool Tools: A Catalog of Possibilities"
 worktype: "Development"
 date: 2016-07-11 01:01:01
 categories: book
+tags: the-tim-ferriss-show:-interview-of-kevin-kelly-co-founder-of-wired-polymath-most-interesting-man-in-the-world?
 image-url: 51MtqLWerCL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FCool-Tools-A-Catalog-Possibilities%2Fdp%2F1940689007%2F
 description: "The Tim Ferriss Show: Interview of Kevin Kelly, Co-Founder of WIRED, Polymath, Most Interesting Man In The World?"

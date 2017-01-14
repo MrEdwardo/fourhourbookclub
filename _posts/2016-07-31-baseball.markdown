@@ -5,6 +5,7 @@ title: "Baseball"
 worktype: "Development"
 date: 2016-07-31 01:01:01
 categories: movie
+tags: bryan-callen-on-eating-corgis-(yes-the-dogs)-and-improving-creativity
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FBaseball-A-Film-Ken-Burns%2Fdp%2F0780630459%2F
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

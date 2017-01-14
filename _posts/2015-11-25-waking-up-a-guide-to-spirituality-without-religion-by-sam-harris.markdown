@@ -5,6 +5,7 @@ title: "Waking Up: A Guide to Spirituality Without Religion – by Sam Harris"
 worktype: "Development"
 date: 2015-11-25 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-14:-sam-harris-phd-on-spirituality-neuroscience-meditation-and-more
 image-url: 51Ao7NwZomL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FWaking-Up-Spirituality-Without-Religion%2Fdp%2F1451636016%2F
 description: "The Tim Ferriss Show, Episode 14: Sam Harris, PhD on Spirituality, Neuroscience, Meditation, and More"

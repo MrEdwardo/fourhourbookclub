@@ -5,6 +5,7 @@ title: "The Fault in Our Stars"
 worktype: "Development"
 date: 2016-01-27 01:01:01
 categories: book
+tags: is-it-time-to-kill-sacred-cows-in-your-relationship?--http://fourhourworkweek.com/2015/05/20/google-x/
 image-url: 51%2BWr7FHRKL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FFault-Our-Stars-John-Green%2Fdp%2F0525478817
 description: "Is It Time to Kill Sacred Cows In Your Relationship? - http://fourhourworkweek.com/2015/05/20/google-x/"

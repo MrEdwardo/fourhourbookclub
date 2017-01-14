@@ -5,6 +5,7 @@ title: "Bad Science"
 worktype: "Development"
 date: 2016-08-01 01:01:01
 categories: book
+tags: how-to-create-a-blockbuster-podcast
 image-url: 5150lq9F5GL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FBad-Science-Quacks-Pharma-Flacks-ebook%2Fdp%2FB003VTZTU8%2F
 description: "How to Create a Blockbuster Podcast"

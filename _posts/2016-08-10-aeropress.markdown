@@ -5,6 +5,7 @@ title: "Aeropress"
 worktype: "Development"
 date: 2016-08-10 01:01:01
 categories: object
+tags: maria-popova-on-writing-workflow-and-workarounds
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAeropress-Coffee-and-Espresso-Maker%2Fdp%2FB0047BIWSK
 description: "Maria Popova on Writing, Workflow, and Workarounds"

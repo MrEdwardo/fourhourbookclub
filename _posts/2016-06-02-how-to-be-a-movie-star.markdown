@@ -5,6 +5,7 @@ title: "How to Be a Movie Star"
 worktype: "Development"
 date: 2016-06-02 01:01:01
 categories: book
+tags: margaret-cho-on-comedy-bisexuality-and-the-slow-carb-diet
 image-url: 41Lb80KDCaL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHow-Movie-Star-Elizabeth-Hollywood%2Fdp%2F0547134649%2F
 description: "Margaret Cho on Comedy, Bisexuality, and The Slow-Carb Diet"

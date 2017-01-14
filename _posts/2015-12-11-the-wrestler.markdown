@@ -5,6 +5,7 @@ title: "The Wrestler"
 worktype: "Development"
 date: 2015-12-11 01:01:01
 categories: movie
+tags: triple-h-on-pre-fight-rituals-injury-avoidance-and-floyd-mayweather-jr.
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FThe-Wrestler-Mickey-Rourke%2Fdp%2FB00274EYKY%2F
 description: "Triple H on Pre-Fight Rituals, Injury Avoidance, and Floyd Mayweather, Jr."

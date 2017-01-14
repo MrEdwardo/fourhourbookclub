@@ -5,6 +5,7 @@ title: "Rising Strong"
 worktype: "Development"
 date: 2016-03-26 01:01:01
 categories: book
+tags: brené-brown-on-vulnerability-and-home-run-ted-talks
 image-url: 51K5xunS2RL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FRising-Strong-Bren%25C3%25A9-Brown%2Fdp%2F0812995821%2F
 description: "Brené Brown on Vulnerability and Home Run TED Talks"

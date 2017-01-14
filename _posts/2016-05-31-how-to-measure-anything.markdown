@@ -5,6 +5,7 @@ title: "How to Measure Anything"
 worktype: "Development"
 date: 2016-05-31 01:01:01
 categories: book
+tags: nick-ganju-on-the-majesty-of-ping-pong-poker-and-how-to-write-hit-songs
 image-url: 51JhJRBJdHL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FHow-Measure-Anything-Intangibles-Business%2Fdp%2F1118539273%2F
 description: "Nick Ganju on The Majesty of Ping Pong, Poker, and How to Write Hit Songs"

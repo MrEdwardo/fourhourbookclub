@@ -5,6 +5,7 @@ title: "The Adventures of Johnny Bunko: The Last Career Guide You'll Ever Need"
 worktype: "Development"
 date: 2016-02-15 01:01:01
 categories: book
+tags: nick-ganju-on-the-majesty-of-ping-pong-poker-and-how-to-write-hit-songs--http://fourhourworkweek.com/2014/11/21/nick-ganju/
 image-url: 51TKs54sr3L._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FAdventures-Johnny-Bunko-Career-Guide%2Fdp%2F1594482918
 description: "Nick Ganju on The Majesty of Ping Pong, Poker, and How to Write Hit Songs - http://fourhourworkweek.com/2014/11/21/nick-ganju/"

@@ -5,6 +5,7 @@ title: "Spectacle"
 worktype: "Development"
 date: 2016-03-03 01:01:01
 categories: book
+tags: ed-cooke-grandmaster-of-memory-on-mental-performance-imagination-and-productive-mischief
 image-url: 418eOHIzwXL._SX218_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FSpectacle-David-Rockwell%2Fdp%2F0714845744%2F
 description: "Ed Cooke, Grandmaster of Memory, on Mental Performance, Imagination, and Productive Mischief"

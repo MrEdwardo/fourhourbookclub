@@ -5,6 +5,7 @@ title: "Dying Every Day"
 worktype: "Development"
 date: 2016-07-04 01:01:01
 categories: book
+tags: bryan-callen-on-eating-corgis-(yes-the-dogs)-and-improving-creativity
 image-url: 51i9p68D0fL._SY445_QL70_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FDying-Every-Day-Seneca-Court-ebook%2Fdp%2FB00F8F7OZQ%2F
 description: "Bryan Callen on Eating Corgis (Yes, The Dogs) and Improving Creativity"

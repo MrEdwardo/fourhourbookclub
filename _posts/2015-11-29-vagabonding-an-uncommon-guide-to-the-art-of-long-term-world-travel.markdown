@@ -5,6 +5,7 @@ title: "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel"
 worktype: "Development"
 date: 2015-11-29 01:01:01
 categories: book
+tags: the-tim-ferriss-show:-interview-of-kevin-kelly-co-founder-of-wired-polymath-most-interesting-man-in-the-world?
 image-url: 51i4yTAk6BL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FVagabonding-Uncommon-Guide-Long-Term-Travel%2Fdp%2F0812992180%2F
 description: "The Tim Ferriss Show: Interview of Kevin Kelly, Co-Founder of WIRED, Polymath, Most Interesting Man In The World?"

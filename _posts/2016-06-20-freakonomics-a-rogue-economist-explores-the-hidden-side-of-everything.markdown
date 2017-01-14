@@ -5,6 +5,7 @@ title: "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything"
 worktype: "Development"
 date: 2016-06-20 01:01:01
 categories: book
+tags: the-tim-ferriss-show-episode-18:-james-altucher-on-how-to-say-“no”-fail-better-and-build-businesses
 image-url: 51mb6DELsQL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FFreakonomics-Economist-Explores-Hidden-Everything%2Fdp%2F0060731338%2F
 description: "The Tim Ferriss Show, Episode 18: James Altucher on How to Say “No”, Fail Better, and Build Businesses"

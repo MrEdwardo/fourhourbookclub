@@ -5,6 +5,7 @@ title: "Xtend"
 worktype: "Development"
 date: 2015-11-08 01:01:01
 categories: fitness
+tags: dom-d’agostino-on-fasting-ketosis-and-the-end-of-cancer
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FScivation-Intra-Workout-Catalyst-Watermelon-Servings%2Fdp%2FB005CH0DT4
 description: "Dom D’Agostino on Fasting, Ketosis, and the End of Cancer"

@@ -5,6 +5,7 @@ title: "Scott Pilgrim vs The World"
 worktype: "Development"
 date: 2016-03-23 01:01:01
 categories: movie
+tags: derek-sivers-reloaded-–-on-success-habits-and-billionaires-with-perfect-abs
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FScott-Pilgrim-World-Michael-Cera%2Fdp%2FB0041T52S6
 description: "Derek Sivers Reloaded – On Success Habits and Billionaires with Perfect Abs"

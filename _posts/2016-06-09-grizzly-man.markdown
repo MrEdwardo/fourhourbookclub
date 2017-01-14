@@ -5,6 +5,7 @@ title: "Grizzly Man"
 worktype: "Development"
 date: 2016-06-09 01:01:01
 categories: movie
+tags: rolf-potts-on-travel-tactics-creating-time-wealth-and-lateral-thinking
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FGrizzly-Man-Timothy-Treadwell%2Fdp%2FB000BMY2NS%2F
 description: "Rolf Potts on Travel Tactics, Creating Time Wealth, and Lateral Thinking"

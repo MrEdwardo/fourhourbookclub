@@ -5,6 +5,7 @@ title: "Hanging upside-down"
 worktype: "Development"
 date: 2016-06-08 01:01:01
 categories: fitness
+tags: 5-tools-i-use-for-faster-and-better-sleep
 image-url: book-cover-blank.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FTeeter-Hang-Ups-Gravity-Conversion%2Fdp%2FB000PX1ZVU%2F
 description: "5 Tools I Use For Faster And Better Sleep"

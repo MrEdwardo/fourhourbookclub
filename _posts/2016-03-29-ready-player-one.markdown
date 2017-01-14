@@ -5,6 +5,7 @@ title: "Ready Player One"
 worktype: "Development"
 date: 2016-03-29 01:01:01
 categories: book
+tags: the-tim-ferriss-show:-interview-of-kevin-kelly-co-founder-of-wired-polymath-most-interesting-man-in-the-world?
 image-url: 51bE6SBNroL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FReady-Player-One-A-Novel%2Fdp%2F0307887448%2F
 description: "The Tim Ferriss Show: Interview of Kevin Kelly, Co-Founder of WIRED, Polymath, Most Interesting Man In The World?"

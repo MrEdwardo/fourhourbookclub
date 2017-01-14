@@ -5,6 +5,7 @@ title: "What I Learned Losing a Million Dollars (Columbia Business School Publis
 worktype: "Development"
 date: 2015-11-21 01:01:01
 categories: book
+tags: optimizing-investing-blood-hormones-and-life-(podcast-double-header:-#63-and-#65)--http://fourhourworkweek.com/2015/03/18/mark-hart-raoul-pal-peter-attia/
 image-url: 51MSpT2mMSL._SY291_BO1,204,203,200_QL40_.jpg
 item-url: http://target.georiot.com/Proxy.ashx?tsid=14707&GR_URL=http%3A%2F%2Fwww.amazon.com%2FLearned-Million-Columbia-Business-Publishing%2Fdp%2F0231164688
 description: "Optimizing Investing, Blood, Hormones, and Life (Podcast Double-Header: #63 and #65) - http://fourhourworkweek.com/2015/03/18/mark-hart-raoul-pal-peter-attia/"
